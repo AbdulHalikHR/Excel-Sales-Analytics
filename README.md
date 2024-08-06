@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report for india](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report%20for%20India.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
 
     **3.** Create a picky report of [Top 10 Products 2021](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)
   
@@ -29,9 +29,12 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/p%26l%20by%20year.pdf) & _[Months](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/p%26l%20by%20month.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/p%26l%20by%20market.pdf)
+
+    **3.** Create a report that shows Gross Margin % by Quarters based on sub_zone wise [GM % by Quarters(sub_zone)](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quarters(sub_zone).pdf)
+
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
