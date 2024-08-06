@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report%20for%20India.pdf 
+    **1.** Create a [Customer Performance Report] (https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report%20for%20India.pdf)
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
