@@ -18,7 +18,7 @@
     **7.** Prepare a [Division Levar Report](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Division%20Levar%20Report.pdf)
   
    
-   - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
