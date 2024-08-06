@@ -7,15 +7,12 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
 
-    **3.** Create a picky report of [Top 10 Products 2021](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)
-  
-    **4.** List down [Top 5 Country](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%205%20Country%202021.pdf) on sales of 2021.
+    **3.** List down [Top 5 Country](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%205%20Country%202021.pdf) on sales of 2021, [Top and Bottom 5 Proucts of 2021](https://github.com/AbdulHalikHR/Excel-Sales-
+  Analytics/blob/main/Top%20and%20Botto%20%20Products.pdf) & [Top 10 Products 2021](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf).
   
     **5.** Find out  [New Products](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/New%20Products%20-%202021.pdf) sales report of 2021.
   
-    **6.** List down [Top and Bottom 5 Proucts of 2021](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%20and%20Botto%20%20Products.pdf)
-  
-    **7.** Prepare a [Division Levar Report](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Division%20Levar%20Report.pdf)
+    **6.** Prepare a [Division Levar Report](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Division%20Levar%20Report.pdf)
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
