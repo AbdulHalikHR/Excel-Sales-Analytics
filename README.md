@@ -7,7 +7,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-    **3.** Create a compartive report of [Top 10 Products 2021](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)
+    **3.** Create a picky report of [Top 10 Products 2021](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)
   
     **4.** List down [Top 5 Country](https://github.com/AbdulHalikHR/Excel-Sales-Analytics/blob/main/Top%205%20Country%202021.pdf) on sales of 2021.
   
